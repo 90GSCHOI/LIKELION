@@ -29,3 +29,6 @@ while True:
         break
     
 print("게임이 끝났습니다.")
+
+
+# GIT 변경사항 CHECK
