@@ -1,0 +1,53 @@
+h1{
+   background:black;
+   color:white;
+}
+
+p{
+    font-weight:bold;
+    font-size:0.5rem;
+}
+
+h1{
+    color:green;
+}
+
+.red_color{
+    color:red;
+}
+
+#myid{
+    color:yellow;
+}
+
+/*@media(max-width:768px){*/
+/*    body{*/
+/*        background: brown;*/
+/*    }*/
+/*}*/
+
+div{
+    border:1px solid black;
+    display:inline-block;
+    width: 70px;
+    height: 120px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin: 30px;
+    font-size: 0.5rem;
+    text-align: center;
+}
+
+#box3{
+    width:50px;
+    height:50px;
+    border-radius:10px;
+    position:fixed;
+    right:20px;
+    top:20px;
+}
+
+html,
+body{
+    min-height:1000px;
+}
